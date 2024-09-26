@@ -2,15 +2,11 @@
 
 SMAFormer: Synergistic Multi-Attention Transformer for Medical Image Segmentation
 
-Fuchen Zheng,  [Xuhang Chen](https://cxh.netlify.app/), Weihuang Liu, Haolun Li, Yingtie Lei, Jiahui He, [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/) 📮and [Shoujun Zhou](https://people.ucas.edu.cn/~sjzhou?language=en) 📮( 📮 Corresponding authors)
+[Fuchen Zheng](https://lzeeorno.github.io/),  [Xuhang Chen](https://cxh.netlify.app/), Weihuang Liu, Haolun Li, Yingtie Lei, Jiahui He, [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/) 📮and [Shoujun Zhou](https://people.ucas.edu.cn/~sjzhou?language=en) 📮( 📮 Corresponding authors)
 
 **University of Macau, SIAT CAS, Huizhou University, University of Nottingham Ningbo China**
 
 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
-
-## Weights
-
-SMAFormer Pretrained file in LiTS2017 download from: [Pretrained model](https://drive.google.com/drive/folders/1f7-G3JB9sLZDd43fqZOql-peoYdXUCIk?usp=sharing)
 
 # 💗 Acknowledgement
 
